@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align=center>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mrhs121&count_private=true&show_icons=true&theme=radical">
+</div>
+![mrhs's github stats]()
 <!-- 
 **Mrhs121/Mrhs121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 <!-- ### Hi there 👋 -->
-![mrhs's github stats](https://github-readme-stats.vercel.app/api?username=Mrhs121&count_private=true&show_icons=true&theme=radical)
+
 <!--
 **ytaek-oh/ytaek-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
