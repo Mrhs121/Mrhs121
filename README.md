@@ -3,11 +3,14 @@ Software Engineer at [Kyligence](https://cn.kyligence.io/company-zh/)
 * - 🔭 I’m currently working on DL/ML frameworks and MLSys
 * - 🔭 I’m currently working on OLAP engine
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mrhs121/Mrhs121)
+
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrhs121&layout=compact)
+
 <div align=center>
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mrhs121&count_private=true&show_icons=true&theme=gruvbox">
 </div>
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrhs121&layout=compact)
+
 <!-- ![mrhs's github stats]() -->
 <!-- 
 **Mrhs121/Mrhs121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
