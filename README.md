@@ -1,5 +1,5 @@
 ### Hi there 👋
-Software Engineer at [Kyligence](https://cn.kyligence.io/company-zh/)
+Big Data Software Engineer at [Kyligence](https://cn.kyligence.io/company-zh/)
 * - 🔭 I’m currently working on DL/ML frameworks and MLSys
 * - 🔭 I’m currently working on OLAP engine
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mrhs121/Mrhs121)
