@@ -1,8 +1,9 @@
 ### Hi there 👋
 Big Data Software Engineer at [Kyligence](https://cn.kyligence.io/company-zh/)
+
 * - 🔭 I’m currently working on DL/ML frameworks and MLSys
-* - 🔭 I’m currently working on OLAP engine
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mrhs121/Mrhs121)
+* - 🔭 I’m currently working on OLAP engine （Apache Kylin core contributors）
+
 
 <div align=center>
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Mrhs121&count_private=true&show_icons=true&theme=gruvbox">
