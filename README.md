@@ -1,4 +1,6 @@
 ### Hi there 👋
+Big Data Software Engineer at [Ruijie-Networks](https://www.ruijie.com.cn/)
+
 Big Data Software Engineer at [Kyligence](https://cn.kyligence.io/company-zh/)
 
 * - 🔭 I’m currently working on DL/ML frameworks and MLSys
