@@ -3,8 +3,10 @@ Big Data Software Engineer at [Ruijie-Networks](https://www.ruijie.com.cn/)
 
 Big Data Software Engineer at [Kyligence](https://cn.kyligence.io/company-zh/)
 
-* - 🔭 I’m currently working on DL/ML frameworks and MLSys
-* - 🔭 I’m currently working on OLAP engine （Apache Kylin Core Contributor）
+
+*   🔭 I’m currently focused on OLAP engines, as a Core Maintainer of Apache Kylin.
+*   🔭 I’m currently also focused on Graph databases.
+*   👨‍💻 Formerly, I worked on DL/ML frameworks and MLSys.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrhs121&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrhs121&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrhs121&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrhs121&theme=2077&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrhs121&theme=2077)
